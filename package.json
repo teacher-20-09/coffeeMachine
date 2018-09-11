@@ -1,0 +1,22 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "descr",
+  "main": "server.js",
+  "scripts": {
+    "test": "comm",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repos"
+  },
+  "keywords": [
+    "keyw"
+  ],
+  "author": "auth",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
